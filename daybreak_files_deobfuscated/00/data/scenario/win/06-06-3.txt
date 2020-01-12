@@ -1,0 +1,6 @@
+VOICE W06-06-7.wav
+\cAACCAAふー！勝てたね！\n僕だってなかなかやるだろ？
+VOICE W06-06-8.wav
+\cAACCAAあはははは！\nこう見えても運動は苦手じゃないんだ。
+VOICE W06-06-9.wav
+\cAACCAA君もやるじゃないかー！\nなかなかのもんだったよ！

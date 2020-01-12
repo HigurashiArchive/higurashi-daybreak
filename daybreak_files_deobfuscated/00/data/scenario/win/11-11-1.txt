@@ -1,0 +1,6 @@
+VOICE W11-11-1.wav
+\cBBEEEEもうやめにしませんか？\nこれ以上は無意味ですし…
+VOICE W11-11-2.wav
+\cBBEEEE昔の勘が戻って、ちょっと楽しかったです。\nうふふふ！
+VOICE W11-11-3.wav
+\cBBEEEE久々に思い通りに体が動きました。\nうふふふ！

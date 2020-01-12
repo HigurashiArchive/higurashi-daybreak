@@ -1,0 +1,19 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm11.ogg
+bg data/talk/back02.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D04/
+character c00-2.bmp,0,1,550
+character c02-4.bmp,1,1,250
+
+front 0
+VOICE D04-011-00.wav
+レナのオットセイさんを横取りしようとする人は、\nみぃんなやっつけちゃうんだよー！！
+front 1
+character c02-2.bmp,1,0
+VOICE D04-012-02.wav
+かぁいいモード恐るべし…\n本当に恐ろしいのは明日の学校だが、\n…まぁ今日は忘れよう…

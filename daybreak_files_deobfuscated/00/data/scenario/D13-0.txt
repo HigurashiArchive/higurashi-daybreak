@@ -1,0 +1,65 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm01.ogg
+bg data/talk/back00.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D13/
+character c01-0.bmp,0,1,300
+character c05-0.bmp,1,1,120
+character c00-0.bmp,2,1,500
+character c02-3.bmp,3,1,680
+
+front 3
+VOICE D13-001-02.wav
+園崎姉妹がコンビになるとはなぁ！\nくじ引きめ、恐ろしいチーム編成をしやがった！
+front 0
+character c01-2.bmp,0,0
+VOICE D13-002-01.wav
+ほほぅ？その評価は正しいよ！\n最大の戦力を持った二人が組んでるんだからね。
+front 1
+character c05-1.bmp,1,0
+VOICE D13-003-05.wav
+トップの私に２位のお姉。\nこのチームで勝てなきゃ嘘もいいとこです。
+front 0
+character c01-3.bmp,0,0
+VOICE D13-004-01.wav
+…ちょっとートップは私でしょ？！２位はあんたー！
+front 2
+character c00-3.bmp,2,0
+VOICE D13-005-00.wav
+強いのは認めるけど、…息は合ってないのかな、…かな。
+front 1
+character c05-0.bmp,1,0
+VOICE D13-006-05.wav
+とにかく、お姉は私のバックアップに回ってください。\n勝負は私が決めます！
+front 0
+character c01-3.bmp,0,0
+VOICE D13-007-01.wav
+どこの世界で４番バッターに球拾いをやらせるわけぇ！\nあんたがバックアップ！
+front 3
+character c02-4.bmp,3,0
+VOICE D13-008-02.wav
+……へへ、戦う前から言い合いをしてるようじゃ、\nチームワークは見えたな！
+front 2
+character c00-0.bmp,2,0
+VOICE D13-009-00.wav
+うん！私たちにも勝機は充分にあるよ！
+front 0
+character c01-3.bmp,0,0
+VOICE D13-010-01.wav
+あーもう！！詩音！白黒を付けるよ！！\nどっちが多く相手を倒せるか！！
+front 1
+character c05-1.bmp,1,0
+VOICE D13-011-05.wav
+臨むところです！\n圭ちゃん、レナさん。\n姉妹喧嘩に付き合ってもらいますよー！！
+front 3
+character c02-1.bmp,3,0
+VOICE D13-012-02.wav
+舐めやがって！！\n返り討ちだあああ！！！
+front 0
+character c01-1.bmp,0,0
+VOICE D13-013-01.wav
+ははははは！\nほざくなボーリングのピンの分際でええ！！

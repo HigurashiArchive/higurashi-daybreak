@@ -1,0 +1,49 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm01.ogg
+bg data/talk/back03.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D34/
+character c04-0.bmp,0,1,120
+character c00-1.bmp,1,1,300
+character c11-0.bmp,2,1,500
+character c10-0.bmp,3,1,680
+
+front 1
+VOICE D34-001-00.wav
+はぅ？知恵先生だー。
+front 2
+character c11-3.bmp,2,0
+VOICE D34-002-11.wav
+こぉらあなたたち！！\n先生聞きましたよ、変な玩具を学校に持ってきているそうですね！
+front 3
+character c10-2.bmp,3,0
+VOICE D34-003-10.wav
+赤いオットセイを贈れば誰でもメイドさん化できてしまうなんて…！そんな玩具はこの入江が預かります！！
+front 2
+character c11-1.bmp,2,0
+VOICE D34-004-11.wav
+そんな人心を惑わすものを許すわけには行きません！！
+front 0
+character c04-2.bmp,0,0
+VOICE D34-005-04.wav
+みー。なので、赤いオットセイさんをヤスリで削って粉にして、\n混ぜたカレーに白いオットセイさんでダシを取れば、\n世界中の人がカレーの虜になってしまうのです。
+front 1
+character c00-3.bmp,1,0
+VOICE D34-006-00.wav
+えっと、つまり食べた人には赤いオットセイが行って…\nカレー鍋には白いオットセイが残る…？
+front 3
+character c10-3.bmp,3,0
+VOICE D34-007-10.wav
+なるほど。赤いオットセイを食した者は、白いオットセイのあるカレー鍋を愛するようになる！道理ですね！
+front 2
+character c11-1.bmp,2,0
+VOICE D34-008-11.wav
+ふ、……ふおおおおおおおおおお！！！\nそのオットセイ、先生が世界平和のために預かります！！！
+front 0
+character c04-1.bmp,0,0
+VOICE D34-009-04.wav
+にぱ～☆ボクたちに勝てたらくれてやるのですよ。\nレナぁ！！行きましょうです！

@@ -1,0 +1,6 @@
+VOICE W13-13-10.wav
+\cDDAAAAいやいや楽しいねぇ！\nお肌が若返っちゃうよ～！
+VOICE W13-13-11.wav
+\cDDAAAAあんたらも頑張ったよ！\nまた私と遊ぼうね！
+VOICE W13-13-12.wav
+\cDDAAAA連携こそ園崎の十八番！\n最後の最後で差が出たねぇ。

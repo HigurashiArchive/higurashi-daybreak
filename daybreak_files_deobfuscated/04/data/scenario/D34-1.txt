@@ -1,0 +1,16 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm11.ogg
+bg data/talk/back03.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D34/
+character c04-1.bmp,0,1,250
+character c00-2.bmp,1,1,550
+
+VOICE D34-010-04.wav
+結構楽しかったのですが、\n知恵も入江もまだまだボクたちには及びませんです。
+VOICE D34-011-00.wav
+あはははははは！\n先生たちと本気の部活も楽しいねぇ！

@@ -1,0 +1,65 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm01.ogg
+bg data/talk/back05.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D23/
+character c03-0.bmp,0,1,120
+character c05-0.bmp,1,1,300
+character c07-0.bmp,2,1,500
+character c06-0.bmp,3,1,680
+
+front 2
+VOICE D23-001-07.wav
+くすくすくす、やっと見つけたわ。こんにちはお二人さん。
+front 0
+character c03-4.bmp,0,0
+VOICE D23-002-03.wav
+あら、鷹野さんじゃありませんの。富竹さんも。
+front 3
+character c06-3.bmp,3,0
+VOICE D23-003-06.wav
+やぁ！沙都子ちゃんに詩音ちゃんかい？\n珍しい組み合わせだね。
+front 1
+character c05-1.bmp,1,0
+VOICE D23-004-05.wav
+珍しいは一言余計です。\nそれより何か御用ですか？
+front 2
+character c07-1.bmp,2,0
+VOICE D23-005-07.wav
+えぇ。あなたたちがタイトルホルダーだと聞いて、探してたんだから
+front 0
+character c03-1.bmp,0,0
+VOICE D23-006-03.wav
+タイトルホルダー？何のことですの？
+front 3
+character c06-2.bmp,3,0
+VOICE D23-007-06.wav
+あはははは…、部活のだよ。\n君たちだけが今のところ、勝ち残っているんだろう？
+front 1
+character c05-2.bmp,1,0
+VOICE D23-008-05.wav
+へーー？ってことは何ですか。\n私と沙都子の無敵コンビに挑もうってことですか？
+front 2
+character c07-0.bmp,2,0
+VOICE D23-009-07.wav
+古手神社の至宝フワラズノ勾玉は、\nあなたたちには勿体無いってことよ？くすくす。
+front 0
+character c03-4.bmp,0,0
+VOICE D23-010-03.wav
+をーっほっほっほ！！どうします詩音さん？
+front 1
+character c05-1.bmp,1,0
+VOICE D23-011-05.wav
+こてんぱんにするか、けちょんけちょんにするかの二択ですねー。\nお好みのままに。
+front 2
+character c07-1.bmp,2,0
+VOICE D23-012-07.wav
+くすくすくす！じゃあ、飛び入り参加させてもらうわよ？\nジロウさん、準備いい？
+front 3
+character c06-3.bmp,3,0
+VOICE D23-013-06.wav
+うんＯＫだよ！\nじゃあ行くよ、二人とも！！！

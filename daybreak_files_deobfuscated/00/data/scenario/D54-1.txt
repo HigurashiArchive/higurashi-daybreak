@@ -1,0 +1,33 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm11.ogg
+bg data/talk/back11.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D54/
+character c11-3.bmp,0,1,550
+character c10-0.bmp,1,1,250
+
+front 0
+VOICE D54-013-11.wav
+完ッ全制圧！！\nまだ先生に刃向かう人はいますか？！いませんね？！
+front 1
+VOICE D54-014-10a.wav
+character c10-3.bmp,1,0
+……いないようですね。
+VOICE D54-014-10b.wav
+character c10-2.bmp,1,0
+…ではこの度の部活は、私たちの飛び入り優勝ということで、\n決着させていただきましょう。
+front 0
+VOICE D54-015-11.wav
+character c11-0.bmp,0,0
+まさか、こんな形で地球に平和をもたらせるとは思いませんでした。
+front 1
+VOICE D54-016-10a.wav
+character c10-0.bmp,1,0
+知恵先生、まだ私たちは、その扉に手をかけただけです。
+VOICE D54-016-10b.wav
+character c10-1.bmp,1,0
+さぁ、導きましょう！\n迷える子羊たちを、カレーとメイドの世界に！！！

@@ -1,0 +1,32 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm11.ogg
+bg data/talk/back13.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D42/
+character c07-2.bmp,0,1,550
+character c06-0.bmp,1,1,250
+
+front 0
+VOICE D42-017-07a.wav
+ほーっほっほっほ！ほーっほっほっほ！！
+VOICE D42-017-07b.wav
+これで文句はないわね？！\n私たちの優勝よー！！
+front 1
+VOICE D42-018-06.wav
+character c06-3.bmp,1,0
+いやまさか、僕たちが優勝できるとはなぁ！\n本編のどんなシナリオより活躍できた気がするよ！
+front 0
+VOICE D42-019-07.wav
+ああぁ、フワラズノ勾玉！\n知的好奇心が疼くわー！！
+front 1
+VOICE D42-020-06.wav
+character c06-1.bmp,1,0
+ねぇ鷹野さん…\n本当にそれで世界を大混乱させるのかい…？
+front 0
+VOICE D42-021-07.wav
+character c07-1.bmp,0,0
+そうよ？\nくすくす、きっと楽しいわよぅ！！

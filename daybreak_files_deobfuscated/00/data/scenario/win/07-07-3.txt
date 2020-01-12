@@ -1,0 +1,6 @@
+VOICE W07-07-7.wav
+\cDDAADDもう、元気なんだから…\nくすくすくす。
+VOICE W07-07-8.wav
+\cDDAADD手加減して正解ね。\nいい勝負になったわ。
+VOICE W07-07-9.wav
+\cDDAADDまた遊んであげるわ。\nまたいらっしゃいね、くすくすくす。

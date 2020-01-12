@@ -1,0 +1,16 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm11.ogg
+bg data/talk/back02.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D33/
+character c04-1.bmp,0,1,250
+character c00-2.bmp,1,1,550
+
+VOICE D33-011-00.wav
+惜しかったですね！\n今日のところは私たちの勝ちということで！
+VOICE D33-012-04.wav
+こてんぱんにされるわ、\n鷹野の尻の下だわで、かわいそかわいそなのです。\nにぱ～☆

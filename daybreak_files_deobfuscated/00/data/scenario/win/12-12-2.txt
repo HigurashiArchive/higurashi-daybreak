@@ -1,0 +1,6 @@
+VOICE W12-12-4.wav
+\cAAAAAAま、本職が本気になればこんなもんです。
+VOICE W12-12-5.wav
+\cAAAAAA少し怖がらせすぎましたか…\n悪いことをしました。
+VOICE W12-12-6.wav
+\cAAAAAA手加減が足りませんでした。\n失礼。

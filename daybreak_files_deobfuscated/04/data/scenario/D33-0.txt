@@ -1,0 +1,55 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm01.ogg
+bg data/talk/back02.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D33/
+character c04-0.bmp,0,1,120
+character c00-1.bmp,1,1,300
+character c07-0.bmp,2,1,1100
+character c06-0.bmp,3,1,1280
+
+front 1
+VOICE D33-001-00.wav
+はぅ。…みんなやっつけちゃってるから、これで優勝かな？かな？
+front 3
+character c06-3.bmp,3,0
+VOICE D33-002-06.wav
+move 3,-10,60
+待った待ったぁぁあぁ！！\n今日の部活は飛び入りＯＫだそうだね？！
+front 2
+character c07-0.bmp,2,0
+VOICE D33-003-07.wav
+move 2,-10,60
+くすくす！ぜひ私たちにも挑戦させてもらうわよ。
+front 1
+character c00-2.bmp,1,0
+VOICE D33-004-00.wav
+はぅー！臨むところだよー！\nでもレナたちは負けないよぅ！
+front 0
+character c04-1.bmp,0,0
+VOICE D33-005-04.wav
+やはりフワラズノ勾玉は魅力なのですか？
+front 2
+character c07-1.bmp,2,0
+VOICE D33-006-07.wav
+えぇ、古手神社の至宝！２００年のベールに覆われた伝説の神器！\nぜひとも私の手で研究させてもらうわー！！
+front 3
+character c06-1.bmp,3,0
+VOICE D33-007-06.wav
+彼女がどうしてもって言うんだ。\n君たちの部活のルールに則って、挑戦させてもらうよ！
+front 1
+character c00-0.bmp,1,0
+VOICE D33-008-00.wav
+うん。ならば挑戦を受けなくちゃならないね！\n戦おう梨花ちゃん！
+front 0
+character c04-0.bmp,0,0
+VOICE D33-009-04.wav
+ボクも臨むところなのです。\nふぁいと、おーです！
+front 2
+character c07-2.bmp,2,0
+VOICE D33-010-07.wav
+ほーっほっほっほ！！\nでは行くわよジロウさん！！！

@@ -1,0 +1,6 @@
+VOICE W01-01-1.wav
+\cBBFFBBくっくっく！\nもうちょいタイムを縮められたよねぇ？
+VOICE W01-01-2.wav
+\cBBFFBBもうちょい華麗に行けるねぇ！\nくーっくっくっく！
+VOICE W01-01-3.wav
+\cBBFFBBそんなわけで、\nおじさんたちの完全勝利だねー！

@@ -1,0 +1,61 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm01.ogg
+bg data/talk/back01.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D41/
+character c07-0.bmp,0,1,300
+character c06-1.bmp,1,1,120
+character c08-1.bmp,2,1,950
+character c09-0.bmp,3,1,1130
+
+front 1
+VOICE D41-001-06.wav
+もうだいぶ勝ち抜いたと思うけど、\nいつ優勝になるのかな？
+front 0
+VOICE D41-002-07.wav
+character c07-0.bmp,0,0
+そう言えば、前原くんとレナちゃんを見ないわね。
+front 1
+VOICE D41-003-06.wav
+character c06-3.bmp,1,0
+確かにそうだね！\nよしあの二人を見つけてやっつけよう。
+front 2
+VOICE D41-004-08.wav
+move 2,-20,20
+move 2,-5,10
+おおぉっと、そうは行きません。んっふっふ！
+front 3
+VOICE D41-005-09.wav
+move 3,-20,20
+move 3,-5,10
+警察だ！！だいぶ暴れ回ってくれたようだな！
+front 0
+VOICE D41-006-07.wav
+character c07-1.bmp,0,0
+あぁら、大石さんも欲しいのかしら？\nフワラズノ勾玉…
+front 2
+VOICE D41-007-08a.wav
+むっふっふっふ！\nそれがあればどこのお店でもモテモテです！
+VOICE D41-007-08b.wav
+character c08-2.bmp,2,0
+軽い恋愛を遊びこなせるのは、私くらいに熟した人間の方がぴったりだとは思いませんか？んっふっふー。
+front 0
+VOICE D41-008-07.wav
+character c07-1.bmp,0,0
+あぁら、何て寂しい人なのかしらん。\n愛は重厚な方が素敵よねぇ？
+front 1
+VOICE D41-009-06.wav
+character c06-2.bmp,1,0
+あは、あはははははははははぁん！
+front 2
+VOICE D41-010-08.wav
+character c08-0.bmp,2,0
+むうぅうぅ！！赤坂さん、不純異性交遊の現行犯です！\n緊急逮捕ですよ！！
+front 3
+VOICE D41-011-09.wav
+character c09-2.bmp,3,0
+そ、そんな犯罪ってあったかなぁ？！

@@ -1,0 +1,6 @@
+VOICE W00-00-4.wav
+\cFFCCAAはぅ～、多分レナたち\n手加減無さ過ぎ…
+VOICE W00-00-5.wav
+\cFFCCAAこれ以上は悪いよね。\n許してあげよ！
+VOICE W00-00-6.wav
+\cFFCCAAはぅ、もうちょっと手加減しないと\n悪かったかもだね…

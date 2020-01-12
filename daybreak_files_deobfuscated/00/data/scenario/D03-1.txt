@@ -1,0 +1,19 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm11.ogg
+bg data/talk/back03.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D03/
+character c00-0.bmp,0,1,550
+character c02-4.bmp,1,1,250
+
+front 1
+VOICE D03-012-02.wav
+安らかに眠れ、魅音に誑かされし哀れなコマよ。\n俺たちのチームは止められないぜ！！
+front 0
+character c00-1.bmp,0,0
+VOICE D03-013-00.wav
+誰にも止められないね！あはは！\nこの調子でオットセイさんをお持ち帰りぃー！！

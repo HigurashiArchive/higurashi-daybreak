@@ -1,0 +1,19 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm11.ogg
+bg data/talk/back01.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D52/
+character c11-2.bmp,0,1,550
+character c10-0.bmp,1,1,250
+
+front 0
+VOICE D52-011-11.wav
+まったくにもって無益な戦いでした。\n…どうしてこんなことに！
+front 1
+VOICE D52-012-10.wav
+character c10-3.bmp,1,0
+私たちも、いつの間にか部活に\n組み込まれてしまっているようですね…

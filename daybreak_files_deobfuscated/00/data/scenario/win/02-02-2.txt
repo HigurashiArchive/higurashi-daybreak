@@ -1,0 +1,6 @@
+VOICE W02-02-4.wav
+\cEEEEFFへへ、容赦無さ過ぎたかもな！
+VOICE W02-02-5.wav
+\cEEEEFFやれやれ…\n俺も恐ろしい相棒を持ったもんだぜ…！
+VOICE W02-02-6.wav
+\cEEEEFF今のじゃ向こうも納得いかないだろ。\n…もっかいやろうぜ！

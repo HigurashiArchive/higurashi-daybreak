@@ -1,0 +1,31 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm11.ogg
+bg data/talk/back10.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D30/
+character c03-4.bmp,0,1,300
+character c04-0.bmp,1,1,120
+character c07-3.bmp,2,1,500
+character c06-2.bmp,3,1,680
+
+front 2
+VOICE D30-021-07.wav
+阿鼻叫喚の地獄絵図～～、きゅう……
+front 3
+VOICE D30-022-06.wav
+いやぁ…はっはっは、敵わないなぁ！
+front 0
+VOICE D30-023-03.wav
+character c03-2.bmp,0,0
+当然でございましてよ！！\n私と梨花のコンビは常勝不敗！！
+front 1
+VOICE D30-024-04.wav
+character c04-1.bmp,1,0
+みー！絶対無敵のナイスなコンビさんなのです。\nというわけで、二人をいっぱいなでなでしますです☆
+VOICE D30-025-03.wav
+character c03-4.bmp,0,0
+これでもう私たちにケチをつける輩はおりませんわよね？\nおりませんわよね？！ならば優勝ですわーー！！！

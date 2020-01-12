@@ -1,0 +1,6 @@
+VOICE W02-02-1.wav
+\cEEEEFFおいおいどうしたんだろうな！\n拍子抜けだったぜ？！
+VOICE W02-02-2.wav
+\cEEEEFFどうしたんだろうな…\n靴紐でも解けたのかなぁ？
+VOICE W02-02-3.wav
+\cEEEEFFやれやれ…\nここまで楽勝過ぎると刺激不足だぜ！

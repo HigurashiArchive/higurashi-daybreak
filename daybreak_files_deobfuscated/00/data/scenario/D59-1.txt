@@ -1,0 +1,31 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm11.ogg
+bg data/talk/back04.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D59/
+character c13-0.bmp,0,1,550
+character c12-3.bmp,1,1,250
+
+front 1
+VOICE D59-013-12.wav
+……姐さん、…さすがに警察はまずいんじゃないですかね…
+front 0
+VOICE D59-014-13.wav
+character c13-3.bmp,0,0
+大丈夫だよ！\nこいつらが上司に、女に負けましたって言わない限りね！
+front 0
+VOICE D59-015-13.wav
+character c13-1.bmp,0,0
+それよりうちの娘たちはどこにいるんだい！\nあいつらをやっつけないと、優勝を認めてもらえないよ！
+front 1
+VOICE D59-016-12.wav
+character c12-2.bmp,1,0
+そうですね。\n早めに見つけておしまいにしましょう。
+front 0
+VOICE D59-017-13.wav
+character c13-3.bmp,0,0
+そうと決まれば急ぐよ！！\n魅音～！詩音～！！出ておいで～～！！

@@ -1,0 +1,17 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm11.ogg
+bg data/talk/back03.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D07/
+character c02-4.bmp,0,1,250
+character c01-1.bmp,1,1,550
+
+VOICE D07-010-02.wav
+ガツーーーン！！\n決まったなぁ！\nつくづく妹に容赦のないやつだぜ。
+character c01-2.bmp,1,0
+VOICE D07-011-01.wav
+まぁそういうわけよ詩音～！\n今の私ゃ絶好調！\nあっひゃっひゃっひゃ！

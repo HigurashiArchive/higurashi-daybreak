@@ -1,0 +1,33 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm11.ogg
+bg data/talk/back01.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D41/
+character c07-1.bmp,0,1,550
+character c06-3.bmp,1,1,250
+
+front 1
+VOICE D41-012-06.wav
+愛は自由なんだ！逮捕なんかできるものか！
+front 0
+VOICE D41-013-07a.wav
+character c07-2.bmp,0,0
+あぁん残念だったわねぇん。
+VOICE D41-013-07b.wav
+character c07-1.bmp,0,0
+勾玉を奪えてれば、\n私の身も心も、自由に出来たかもしれないのに～。
+front 1
+VOICE D41-014-06.wav
+character c06-0.bmp,1,0
+鷹野さん、あとは圭一くんとレナちゃんを探そう。
+front 0
+VOICE D41-015-07a.wav
+character c07-3.bmp,0,0
+そうね。私たちのいないところで勝手に優勝を気取られちゃたまらないわ。
+VOICE D41-015-07b.wav
+character c07-2.bmp,0,0
+……くすくす！\nもうじき古手神社の至宝が私のものに！

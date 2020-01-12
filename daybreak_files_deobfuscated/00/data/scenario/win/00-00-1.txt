@@ -1,0 +1,6 @@
+VOICE W00-00-1.wav
+\cFFCCAAなぜか反撃なかった。\nなんでだろ、だろ？
+VOICE W00-00-2.wav
+\cFFCCAAあっはは！\nレナたちは無敵かな、かな！
+VOICE W00-00-3.wav
+\cFFCCAAレナのお持ち帰りは、\n誰にも邪魔できないんだよ～ぅ！

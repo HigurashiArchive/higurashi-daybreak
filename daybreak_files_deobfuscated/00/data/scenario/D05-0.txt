@@ -1,0 +1,66 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm01.ogg
+bg data/talk/back01.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D05/
+character c00-0.bmp,0,1,300
+character c02-0.bmp,1,1,120
+character c01-0.bmp,2,1,500
+character c05-1.bmp,3,1,680
+
+front 3
+VOICE D05-001-05.wav
+あー、ほらほら来ましたよ、お姉！\nようこそ圭ちゃんにレナさん！
+front 1
+character c02-1.bmp,1,0
+VOICE D05-002-02.wav
+出やがったな黒幕姉妹め！\n勝ち上がってきた俺たちのペアが負けると思うなよ！
+front 0
+character c00-1.bmp,0,0
+VOICE D05-003-00.wav
+そうだよー！\nレナと圭一くんは仲良しの無敵ペアなんだよぅ！\nはぅ☆
+front 3
+character c05-3.bmp,3,0
+VOICE D05-004-05.wav
+…あちゃー……たははは…お姉、どうするぅ？
+front 2
+character c01-4.bmp,2,0
+VOICE D05-005-01.wav
+ぅぅぅうぅぅぅ…
+front 1
+character c02-4.bmp,1,0
+VOICE D05-006-02.wav
+ほらどうした魅音、掛かって来い！！\n俺とレナの息はぴったりだぞ！\n俺たちのペアが怖くなかったら、……おわッ？！
+front 2
+character c02-2.bmp,1,0
+character c01-3.bmp,2,0
+VOICE D05-007-01.wav
+…ぶぶ、……ぶっ殺すぶっ殺す……\n圭ちゃんなんて挽き肉だあああ！！！
+front 3
+character c05-2.bmp,3,0
+VOICE D05-008-05.wav
+やれやれ…圭ちゃんって人はつくづく……くっくっく！
+front 0
+character c00-4.bmp,0,0
+VOICE D05-009-00.wav
+わわ…、魅ぃちゃんがものすごい本気だ…
+front 1
+character c02-3.bmp,1,0
+VOICE D05-010-02.wav
+ち！そんなに優勝が譲れねぇってかよ！上等だぜッ！！
+front 3
+character c05-2.bmp,3,0
+VOICE D05-011-05.wav
+…くっくっく。お姉ぇ、どうするぅ？
+front 2
+character c01-3.bmp,2,0
+VOICE D05-012-01.wav
+完ッ全ッ、抹殺ッ！！！\n圭ちゃんなんか大ッ嫌いだああああああ！！！
+front 1
+character c02-1.bmp,1,0
+VOICE D05-013-02.wav
+そこまで言うかよ…上等だぜ！！\n掛かって来やがれッ！！

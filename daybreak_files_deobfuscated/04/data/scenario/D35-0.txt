@@ -1,0 +1,59 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm01.ogg
+bg data/talk/back04.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D35/
+character c04-0.bmp,0,1,120
+character c00-0.bmp,1,1,300
+character c13-0.bmp,2,1,1100
+character c12-0.bmp,3,1,1280
+
+front 1
+VOICE D35-001-00.wav
+今日のオットセイはすごいね。\nみんなが求めて挑んでくるよ。
+front 0
+character c04-1.bmp,0,0
+VOICE D35-002-04.wav
+そういう宝だから面白いのですよ。\nにぱ～☆
+front 3
+character c12-2.bmp,3,0
+VOICE D35-003-12.wav
+move 3,-10,60
+姐さん！見つけました、あの二人です！
+front 2
+character c13-3.bmp,2,0
+VOICE D35-004-13.wav
+move 2,-10,60
+そおら見つけたよー！！！くっくっく！\nねぇねぇ、おばさん間に合った？！\nおばさんも部活に混ぜてよ～！
+front 1
+character c00-4.bmp,1,0
+VOICE D35-005-00.wav
+ってことは…、魅ぃちゃんのお母さんもオットセイを狙ってるんですかぁ？！
+front 2
+character c13-2.bmp,2,0
+VOICE D35-006-13.wav
+素敵じゃないかい！\n一方通行の恋を助ける縁結びのオットセイなんてさぁ！\nおばさんだってまだまだ若いの！\nあぁん燃えるような恋がしたい～！
+front 0
+character c04-0.bmp,0,0
+VOICE D35-007-04.wav
+そんな回春の願いも、フワラズノ勾玉ならかなえてくれますのです。
+front 2
+character c13-0.bmp,2,0
+VOICE D35-008-13.wav
+そういうわけ！おばさんたちにも挑戦させてもらえるわね？！\n葛西、準備しな！！
+front 1
+character c00-1.bmp,1,0
+VOICE D35-009-00.wav
+あはははは！\n今日は魅ぃちゃんのお母さんとも遊べる、楽しいなぁ、はぅ！
+front 0
+character c04-1.bmp,0,0
+VOICE D35-010-04.wav
+本当に楽しい一日なのです。\nこれが本当の、フワラズノ勾玉のご利益なのですよ。
+front 2
+character c13-3.bmp,2,0
+VOICE D35-011-13.wav
+さぁて行くよ！！\nおばさん本気出しちゃうからねえぇ！！！！

@@ -1,0 +1,119 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm01.ogg
+bg data/talk/back11.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D24/
+character c03-4.bmp,0,1,120
+character c05-0.bmp,1,1,300
+character c11-3.bmp,2,1,1100
+character c10-0.bmp,3,1,1280
+
+front 0
+VOICE D24-001-03.wav
+もうこれで、私たちに敵う者はおりませんわね！\n優勝ですわよー！！
+front 1
+character c05-1.bmp,1,0
+VOICE D24-002-05.wav
+最初からわかってたことです。\n私と沙都子なら簡単なことでした。
+front 0
+character c03-2.bmp,0,0
+VOICE D24-003-03.wav
+これも詩音さんの援護のお陰でしてよー！！
+front 2
+character c11-3.bmp,2,0
+VOICE D24-004-11.wav
+move 2,-10,60
+北条さん！それから園崎さんの妹さん！！
+front 0
+character c03-0.bmp,0,0
+VOICE D24-005-03.wav
+あら先生。…何でございますの、おっかない顔して。
+front 2
+character c11-1.bmp,2,0
+VOICE D24-006-11.wav
+聞きましたよ！！\n通りがかりの人にいたずらをして大怪我をさせたそうですね！！
+front 1
+character c05-4.bmp,1,0
+VOICE D24-007-05.wav
+だ、誰がですか！そんな証拠はあるんですかー？！
+front 2
+character c11-3.bmp,2,0
+VOICE D24-008-11.wav
+証拠はあります！これです！！\nちゃんと写っていますよ！
+front 0
+character c03-1.bmp,0,0
+VOICE D24-009-03.wav
+しゃ、写真？！……た、…確かに証拠ですわね……
+front 1
+character c05-3.bmp,1,0
+VOICE D24-010-05.wav
+…くそー！あのアマぁ、先生にチクるとは陰険な真似をー！
+front 2
+character c11-1.bmp,2,0
+VOICE D24-011-11.wav
+とにかく！職員室にいらっしゃい！！\nお二人にはよーくお説教が必要です！
+front 0
+character c03-3.bmp,0,0
+VOICE D24-012-03.wav
+そ、そんなぁ…
+front 1
+character c05-4.bmp,1,0
+VOICE D24-013-05.wav
+待ってください！私が悪いんです。\n沙都子は私に従ってやっただけなんです。\nだから叱るなら私だけにしてください！
+front 0
+character c03-1.bmp,0,0
+VOICE D24-014-03.wav
+し、…詩音さん！……何で、さっきからそうなんですの？！\n私を何で庇って……
+front 1
+character c05-3.bmp,1,0
+VOICE D24-015-05.wav
+悟史くんと、約束したからです。\n………………あなたのことを頼むと、私に電話してくれたから。
+front 0
+character c03-3.bmp,0,0
+VOICE D24-016-03.wav
+………そんな、……だから、…私を庇ってくださるんですの……？
+front 1
+character c05-4.bmp,1,0
+VOICE D24-017-05.wav
+…悟史くんはもういないけど、\n…でも、私は必ず帰ってくるって信じてるから。\nだからその日まで、私はあなたを悟史くんに代わって庇うんです。\nそれでしか、応えられないから。悟史くんに、…応えられないから！
+front 0
+character c03-3.bmp,0,0
+VOICE D24-018-03.wav
+馬鹿。……馬鹿馬鹿馬鹿！！！\nあなたとは…仲良しだったと思っていましたのに！！\nにーにーに頼まれたから一緒にいてくれただけなんですの？！\n楽しかったから一緒にいてくれたんじゃなかったんですの？！
+front 1
+character c05-4.bmp,1,0
+VOICE D24-019-05.wav
+…………沙都子…
+front 0
+character c03-3.bmp,0,0
+VOICE D24-020-03.wav
+生憎ですけど、……もう私は庇われたりなんかしないんですの。\nそれこそが、…私が身に着けなければならない強さなんですの！
+front 2
+character c11-3.bmp,2,0
+VOICE D24-021-11.wav
+あなたたち！！先生の話を聞いていますか？！\nとにかく職員室へ！
+front 0
+character c03-1.bmp,0,0
+VOICE D24-022-03.wav
+そんなのお断りですのよ！！さぁ戦闘準備ですわ詩音さん！！\n私たちは最高のコンビですのよ！二人なら負けない！\n優勝を阻む相手は先生であろうと容赦しませんのよー！！
+front 1
+character c05-0.bmp,1,0
+VOICE D24-023-05.wav
+…………せ、戦闘準備了解！！\nごめん沙都子！私たちは最高のコンビだよね！\n誰にだって、負けるもんか！！\nさぁ掛かって来いカレー女！！
+front 2
+character c11-1.bmp,2,0
+VOICE D24-024-11.wav
+…ど、どうやら口で言ってもわからないようですね……ッ！！！！
+front 3
+character c10-1.bmp,3,0
+VOICE D24-025-10.wav
+move 3,-10,60
+えー、ドクターストップが可能なように私も参加したします。
+front 0
+character c03-2.bmp,0,0
+VOICE D24-026-03.wav
+さぁ！！参りますわよ詩音さん！！\nこのまま優勝ですわあああ！！！

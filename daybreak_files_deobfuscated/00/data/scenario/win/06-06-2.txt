@@ -1,0 +1,6 @@
+VOICE W06-06-4.wav
+\cAACCAAあはははは！\nこういうのもたまには楽しいねぇ！
+VOICE W06-06-5.wav
+\cAACCAAこんな楽勝でいいのかなぁ？\nおかしいなぁ？
+VOICE W06-06-6.wav
+\cAACCAAあははははは！\nこんな勝ち方、まぐれだとしか思えないよ！

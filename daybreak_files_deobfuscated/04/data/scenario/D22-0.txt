@@ -1,0 +1,67 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm01.ogg
+bg data/talk/back01.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D22/
+character c03-4.bmp,0,1,120
+character c05-0.bmp,1,1,300
+character c13-1.bmp,2,1,1100
+character c12-1.bmp,3,1,1280
+
+front 0
+VOICE D22-001-03.wav
+私たち、何気に強いですわね！\nこれで誰も立ち向かってこなかったら、…あら、もう優勝ですの？！\n呆気ない！
+front 1
+character c05-2.bmp,1,0
+VOICE D22-002-05.wav
+あはははは、私たちの手に掛かればざっとこんな感じってことです。
+front 0
+character c03-2.bmp,0,0
+VOICE D22-003-03.wav
+まだまだ遊び足りませんわねぇ。\n今日は豪華賞品ですのよ、挑戦者はいないのかしら！
+front 3
+character c12-1.bmp,3,0
+VOICE D22-004-12.wav
+move 3,-10,60
+……詩音さん！やっと見つけました。\n今日は事務所で親族の会合があることをお忘れでしたか？
+front 1
+character c05-3.bmp,1,0
+VOICE D22-005-05.wav
+……あ、……いっけね…
+front 2
+character c13-1.bmp,2,0
+VOICE D22-006-13.wav
+move 2,-10,60
+ああいたいた！詩音～！あんたこんなとこで油売ってたのかい？\n私と一緒に家に戻るわよ。すぐに着替えないと間に合わないよ？
+front 0
+character c03-0.bmp,0,0
+VOICE D22-007-03.wav
+…あ、………詩音さんは今日は、…家のご用事だったんですのね…
+front 1
+character c05-4.bmp,1,0
+VOICE D22-008-05.wav
+……さ、…沙都子…\n………ごめんお母さん！今日は行けない！
+front 2
+character c13-3.bmp,2,0
+VOICE D22-009-13.wav
+はぁ？！お前、何を言ってるんだい？！\n今日はお父さんの大切な日なんだよ？！\n遊びなんか明日でもできるでしょ！
+front 1
+character c05-3.bmp,1,0
+VOICE D22-010-05.wav
+知ったこっちゃないです！今日は沙都子と遊ぶ日になってるんです！それでも連れて行きたきゃ、首根っこを引っ掴んでみてくださいな！さぁ沙都子！！戦闘準備！！
+front 2
+character c13-1.bmp,2,0
+VOICE D22-011-13.wav
+馬鹿だねこの子は！！\n葛西！　少し遊んでやるよ！！！
+front 0
+character c03-1.bmp,0,0
+VOICE D22-012-03.wav
+詩音さん、本当にいいんですのね？！
+front 1
+character c05-0.bmp,1,0
+VOICE D22-013-05.wav
+問題全然なしです。\n行きますよ、私たちのコンビネーションを見せてやりましょう！

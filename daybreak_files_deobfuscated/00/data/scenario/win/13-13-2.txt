@@ -1,0 +1,6 @@
+VOICE W13-13-4.wav
+\cDDAAAAあんたたち、しっかりおし！\nまだ若いんだから！
+VOICE W13-13-5.wav
+\cDDAAAA筋は悪くないんだから、\n次はもっとしっかり頑張りな！
+VOICE W13-13-6.wav
+\cDDAAAAまいったまいった！\n手応えなさ過ぎだよー。

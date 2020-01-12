@@ -1,0 +1,24 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm11.ogg
+bg data/talk/back01.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D16/
+character c01-0.bmp,0,1,300
+character c05-1.bmp,1,1,120
+character c11-2.bmp,2,1,500
+character c10-1.bmp,3,1,680
+
+front 1
+VOICE D16-013-05.wav
+どうでした監督？\n私の方がすべすべでしたよねぇ？
+front 3
+VOICE D16-014-10.wav
+…し、詩音さんの拳もなかなかでしたが…\n魅音さんの肘もなかなか…ガク。
+front 0
+character c01-3.bmp,0,0
+VOICE D16-015-01.wav
+ちぇー！何でこうも決着が付かないのかなぁ！

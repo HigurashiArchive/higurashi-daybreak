@@ -1,0 +1,53 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm01.ogg
+bg data/talk/back00.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D49/
+character c11-0.bmp,0,1,300
+character c10-0.bmp,1,1,120
+character c03-0.bmp,2,1,500
+character c05-1.bmp,3,1,680
+
+front 3
+VOICE D49-001-05.wav
+さぁ沙都子、準備はＯＫですか？！\n暴れますよー！！
+front 2
+VOICE D49-002-03.wav
+character c03-2.bmp,2,0
+ほーっほっほっほ！！\n大暴れですわよー！！
+front 0
+VOICE D49-003-11.wav
+character c11-1.bmp,0,0
+こらぁ！！あなたたち！\nそんな危ない遊びはいけません！\n怪我したらどうするんですか！
+front 2
+VOICE D49-004-03.wav
+character c03-4.bmp,2,0
+怪我なんかしませんわよ。\nそんなヤワは我が部にはおりませんでしてよー！
+front 3
+VOICE D49-005-05.wav
+character c05-1.bmp,3,0
+それに万が一怪我をしたら、\n監督がやさし～く治療してくれるんですよねー！
+front 1
+VOICE D49-006-10.wav
+character c10-1.bmp,1,0
+えぇえぇえぇ、それはやさしくやさしく治療しますよ～ぅ。\nすべすべお肌は人類の宝なのです。
+front 0
+VOICE D49-007-11.wav
+character c11-3.bmp,0,0
+治療すればいいという問題ではありません！\nとにかく、この騒ぎは今すぐおしまいです！
+front 2
+VOICE D49-008-03.wav
+character c03-1.bmp,2,0
+えーーー、せっかくの部活ですのに面白くありませんわぁ！
+front 3
+VOICE D49-009-05.wav
+character c05-2.bmp,3,0
+なら先生方も飛び入り参加でどうぞ！\n言うことを聞かせたかったら、実力でやってみてくださいな！
+front 0
+VOICE D49-010-11.wav
+character c11-1.bmp,0,0
+そうですか…わかりました、そうさせていただきます。\n覚悟なさいッ！！！

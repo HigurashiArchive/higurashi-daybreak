@@ -1,0 +1,19 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm11.ogg
+bg data/talk/back00.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D55/
+character c13-0.bmp,0,1,550
+character c12-1.bmp,1,1,250
+
+front 1
+VOICE D55-009-12.wav
+……姐さん……先生方はこのままでよろしいんですかね…
+front 0
+VOICE D55-010-13.wav
+character c13-3.bmp,0,0
+腹が出てなきゃ風邪は引かないって。\nさぁさぁ部活メンバーを追っかけるよー！！\nみぃんなやっつけて優勝だよ！！

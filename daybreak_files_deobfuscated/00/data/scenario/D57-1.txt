@@ -1,0 +1,19 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm11.ogg
+bg data/talk/back02.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D57/
+character c13-0.bmp,0,1,550
+character c12-2.bmp,1,1,250
+
+front 1
+VOICE D57-011-12.wav
+……いいキレです。\n若い日と比べても遜色がありませんね。
+front 0
+VOICE D57-012-13.wav
+character c13-3.bmp,0,0
+そりゃそうさね！\n若さがみなぎってくるよ！！\n燃えてきたーー！！

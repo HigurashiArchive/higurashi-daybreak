@@ -1,0 +1,18 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm11.ogg
+bg data/talk/back00.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D49/
+character c11-0.bmp,0,1,550
+character c10-1.bmp,1,1,250
+
+front 1
+VOICE D49-011-10.wav
+いやぁ…はっはっはっは、知恵先生もお強いですねぇ…！
+front 0
+VOICE D49-012-11.wav
+時にはガツンとやるのも教育です！

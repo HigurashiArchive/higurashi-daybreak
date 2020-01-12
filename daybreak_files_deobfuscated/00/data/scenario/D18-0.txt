@@ -1,0 +1,114 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm01.ogg
+bg data/talk/back10.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D18/
+character c01-0.bmp,0,1,300
+character c05-0.bmp,1,1,120
+character c13-0.bmp,2,1,1000
+character c12-0.bmp,3,1,1200
+
+front 1
+character c05-0.bmp,1,0
+VOICE D18-001-05.wav
+ねぇお姉。私たち、もうとっくに優勝してるんじゃないですか？
+front 0
+character c01-0.bmp,0,0
+VOICE D18-002-01.wav
+そうなんだよねぇ。\n他の部活メンバーはだいぶ最初の方でやっつけてるし。
+front 1
+character c05-1.bmp,1,0
+VOICE D18-003-05.wav
+なぁんか馬鹿らしい！あははは。\n早く戻って賞品をいただいちゃいましょうよ。
+front 0
+character c01-1.bmp,0,0
+VOICE D18-004-01.wav
+縁結びのオットセイかぁ！どうやって遊ぼうかねぇ…！
+front 2
+character c13-1.bmp,2,0
+VOICE D18-005-13.wav
+move 2,-10,40
+move 2,-5,20
+見ぃいいいぃつけたあああ！！！\n魅音～詩音～～！！！！
+front 1
+character c01-4.bmp,0,0
+character c05-4.bmp,1,0
+VOICE D18-006-D.wav
+「「わわわわー！！！かか、母さん！！！」」
+front 2
+character c13-1.bmp,2,0
+VOICE D18-007-13.wav
+母さんじゃないよ、まったくッ！！！\nさっき警察から電話があったんだよ！\nあんたら今日は方々で悪さをしてるそうだねぇ？！
+front 1
+VOICE D18-008-D.wav
+「わわ、悪さなんてとんでもない！！\n　　　それは全部魅音（詩音）が！！」
+front 2
+VOICE D18-009-13.wav
+お黙りッ！！！！\n反省する気のないお前たちには、\n体に叩き込んでやるしかないようだねぇ！！\n本家の地下祭具殿に引っ立ててやる！！
+front 1
+character c01-4.bmp,0,0
+character c05-4.bmp,1,0
+VOICE D18-010-D.wav
+「「ぎゃーーー！地下祭具殿はいやあああ！！」」
+front 2
+VOICE D18-011-13a.wav
+今日という今日は許さないよ！！\n二人ともごめんなさいが百回言えるまで、\nこちょこちょマシーンの刑だからね！！！
+character c13-0.bmp,2,0
+VOICE D18-011-13b.wav
+move 3,0,150
+move 3,-20,20
+move 3,-10,10
+葛西！若いのを連れて本家に行って準備をさせな！
+front 3
+VOICE D18-012-12.wav
+……わかりました。
+front 1
+character c05-3.bmp,1,0
+VOICE D18-013-05.wav
+ちょっと葛西！お母さんに言ってよ。\nあのこちょこちょマシーンは洒落にならないのー！
+front 3
+VOICE D18-014-12.wav
+character c12-2.bmp,3,0
+……それは姐さんにおっしゃってください。
+move 3,10,50
+front 1
+VOICE D18-015-01.wav
+お母さん！\nこちょこちょマシーンは絶対に嫌ぁあぁ！！\n許してよおお！！
+front 2
+VOICE D18-016-13.wav
+character c13-0.bmp,2,0
+いいや、今日という今日は許さないね！！\n二人仲良くみっちりお仕置きだよ！！
+front 0
+character c05-0.bmp,1,0
+VOICE D18-017-05.wav
+…お姉、思うにお母さんは、こちょこちょマシーンがどれほど辛いか知らないんです。
+front 1
+character c01-3.bmp,0,0
+VOICE D18-018-01.wav
+だよね。いっつも私たちがやられてばかりで、お母さんはやられたことないもんね。
+front 2
+character c13-3.bmp,2,0
+VOICE D18-019-13a.wav
+……ほほぉ。面白いことを言うようになったねぇ。
+VOICE D18-019-13b.wav
+やっぱり昔みたいに、私が尻を叩かないとごめんなさいとは言えないのかい？！
+front 0
+character c01-4.bmp,0,0
+VOICE D18-020-01.wav
+お、お母さんもあのマシーンを一度体験してみればわかるよ、\nすっごい辛いんだから！
+front 2
+character c13-3.bmp,2,0
+VOICE D18-021-13a.wav
+あっはっは！私に勝てたら、こちょこちょマシーンだろうと、さわさわマシーンだろうと、ぐりぐりマシーンだろうとやってあげようじゃなーい！
+character c13-1.bmp,2,0
+VOICE D18-021-13b.wav
+でもあんたらが負けたら逆を覚悟するんだよ！！\nさぁ掛かっておいでッ！！！
+front 1
+character c01-0.bmp,0,0
+character c05-0.bmp,1,0
+VOICE D18-022-D.wav
+「「覚悟完了ッ！！！\n　　　いざ、勝負ううぅううぅ！！！」」

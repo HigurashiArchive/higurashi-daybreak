@@ -1,0 +1,78 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm01.ogg
+bg data/talk/back02.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D15/
+character c01-0.bmp,0,1,300
+character c05-1.bmp,1,1,120
+character c07-0.bmp,2,1,500
+character c06-0.bmp,3,1,680
+
+front 1
+character c05-1.bmp,1,0
+VOICE D15-001-05.wav
+いたいたやっと捕まえた…！
+front 3
+character c06-3.bmp,3,0
+VOICE D15-002-06.wav
+やぁ魅音ちゃんに詩音ちゃん。\n今日も賑やかだねぇ。
+front 0
+character c01-1.bmp,0,0
+VOICE D15-003-01.wav
+さっき富竹さん、私たちが戦ってるところを撮影してましたよねぇ？
+front 2
+character c07-2.bmp,2,0
+VOICE D15-004-07.wav
+えぇしてたわよ。\n「じゃれ合う小鳥たちの姿～」\nとか言いながら、くすくすくす。
+front 1
+character c05-0.bmp,1,0
+VOICE D15-005-05.wav
+と、取り合えず盗撮の件は不問とします！
+front 0
+character c01-0.bmp,0,0
+VOICE D15-006-01.wav
+撮影してたならわかりますよね！\n私と詩音、どっちが一番活躍してました？！
+front 1
+character c05-1.bmp,1,0
+VOICE D15-007-05.wav
+もちろん私に決まってますよね！\n客観的に見てた人なら明らかです！
+front 3
+character c06-2.bmp,3,0
+VOICE D15-008-06.wav
+…え、…ええぇと、…あはは、どっちが活躍してたかなぁ…
+front 2
+character c07-2.bmp,2,0
+VOICE D15-009-07.wav
+あらあら。ローアングルな写真ばっかりだから、\n勝敗なんて見てなかったんじゃない？\nくすくす。
+front 1
+character c01-3.bmp,0,0
+character c05-3.bmp,1,0
+VOICE D15-010-D.wav
+「「ろ、ろーあんぐる…！」」
+front 2
+character c07-0.bmp,2,0
+VOICE D15-011-07a.wav
+駄目よ貴方たち、若い女の子がそんなひらひらな格好で\n暴れたりしちゃ。
+VOICE D15-011-07b.wav
+character c07-1.bmp,2,0
+見たくもなくても見えちゃうもの。\n下着の優劣なら私がつけてあげてもいいけど？
+front 3
+character c06-2.bmp,3,0
+VOICE D15-012-06.wav
+ごご、誤解だよ！！写ったのは偶然なんだ！\n決してやましい気持ちでファインダーを覗いてたわけじゃ！！
+front 1
+character c05-2.bmp,1,0
+VOICE D15-013-05.wav
+…行きますよ、お姉。\nここでどっちが活躍するか、もう一度見てもらいましょう。
+front 0
+character c01-2.bmp,0,0
+VOICE D15-014-01.wav
+そうだね、富竹のおじさま！！\nお覚悟ぉーーー！！！！
+front 3
+character c06-1.bmp,3,0
+VOICE D15-015-06.wav
+そそそそんな、誤解だーーーー！！！！

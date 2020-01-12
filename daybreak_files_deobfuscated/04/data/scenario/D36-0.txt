@@ -1,0 +1,77 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm01.ogg
+bg data/talk/back12.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D36/
+character c04-0.bmp,0,1,120
+character c00-0.bmp,1,1,300
+character c08-1.bmp,2,1,500
+character c09-0.bmp,3,1,680
+
+front 2
+VOICE D36-001-08.wav
+ようやく見つけましたよ、古手梨花さん。\nんっふっふっふ！
+front 1
+character c00-1.bmp,1,0
+VOICE D36-002-00.wav
+あはははは、まさか大石さんまで来るとは思いませんでした。\nやっぱり縁結びのオットセイが目的ですか？
+front 3
+character c09-2.bmp,3,0
+VOICE D36-003-09.wav
+縁結び？とんでもない！\n伝説によれば、その勾玉を巡って２００年前に恐ろしい大事件があったというじゃないか。
+front 2
+character c08-2.bmp,2,0
+VOICE D36-004-08.wav
+鷹野さんから聞きました。ゆえにフワラズノ勾玉は門外不出。\n持ち出されることがあれば災厄を招く、とね。
+front 1
+character c00-3.bmp,1,0
+VOICE D36-005-00.wav
+さ、災厄なんか招かないよ！\nだって今日一日とっても楽しかったもん！\nねぇ梨花ちゃん？
+front 0
+character c04-2.bmp,0,0
+VOICE D36-006-04.wav
+みー…
+front 2
+character c08-1.bmp,2,0
+VOICE D36-007-08.wav
+私も２００年前の昔話なんて半分は信じちゃいません。
+front 3
+character c09-0.bmp,3,0
+VOICE D36-008-09.wav
+でももし本当だったなら大変なことになる！\nだからそれは警察で預かります！
+front 1
+character c00-4.bmp,1,0
+VOICE D36-009-00.wav
+だぁめだよ！！これは優勝した私たちのだもん！\n欲しかったら、ルールに則って挑戦してくればいい！
+front 2
+character c08-2.bmp,2,0
+VOICE D36-010-08.wav
+やれやれ。…そう来ると思いました。\n赤坂さん。ここは腕っ節で参りますよ。
+front 3
+character c09-3.bmp,3,0
+VOICE D36-011-09.wav
+参りましたね。\n…でも、手加減なしがルールだというなら、\n…僕はそれでも結構ですよ。
+front 1
+character c00-2.bmp,1,0
+VOICE D36-012-00.wav
+あははは！そうこなくっちゃあ！\n私と梨花ちゃんはここまで勝ちあがってきたんだからね！\n簡単には負けないよぅ！！\n勝ってレナがかぁいいのを、お持ち帰り～！！！
+front 2
+character c08-3.bmp,2,0
+VOICE D36-013-08.wav
+嵐を呼ぶ宝に惑わされましたね。\n…目を覚まさせてあげますよ！
+front 0
+character c04-0.bmp,0,0
+VOICE D36-014-04.wav
+……惑わされるのは、心が貧しい人たちなのです。\nボクの仲間たちなら、絶対に楽しく盛り上がってくれると信じてますのです。
+front 1
+character c00-0.bmp,1,0
+VOICE D36-015-00.wav
+そうだよ梨花ちゃん。私たちは今日一日本当に楽しかった！\nそれは全てそのオットセイのお陰だもん！\nだからこれをフィナーレにして楽しい一日に幕を下ろそう！
+front 0
+character c04-1.bmp,0,0
+VOICE D36-016-04.wav
+そうなのです。ボクもレナと一日、とても楽しかったです。\n……さぁレナ、…最後の戦いです。\n存分に楽しみましょうですよー！！

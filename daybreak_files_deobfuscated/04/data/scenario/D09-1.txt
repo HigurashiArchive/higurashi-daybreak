@@ -1,0 +1,43 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm11.ogg
+bg data/talk/back04.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D09/
+character c02-4.bmp,0,1,250
+character c01-2.bmp,1,1,550
+character c08-2.bmp,2,1,1350
+
+front 1
+VOICE D09-013-01.wav
+警察の追っ手も何のその！！\n私と圭ちゃんの愛の逃避行は続くのであった！
+front 0
+character c02-2.bmp,0,0
+VOICE D09-014-02.wav
+あ、…愛なのかぁ？！\nごめんよ大石さん、公務執行妨害は魅音に頼むぜー！
+front 1
+character c01-3.bmp,1,0
+VOICE D09-015-01.wav
+move 1,0,120
+move 1,20,30
+move 1,-20,30
+move 2,0,150
+move 2,-20,30
+えーひどいなぁ！大石さん聞こえてるー？！\n黒幕は竜宮レナと古手梨花！！\n二人をよろしく！
+front 2
+character c08-2.bmp,2,0
+VOICE D09-016-08.wav
+move 2,0,480
+move 2,5,120
+…うーーん、うーーん、黒幕は竜宮レナと古手梨花…\n…むにゃむにゃ…
+front 1
+character c01-2.bmp,1,0
+VOICE D09-017-01.wav
+ね？！これで完璧！
+front 0
+character c02-3.bmp,0,0
+VOICE D09-018-02.wav
+……お前、悪魔だな…

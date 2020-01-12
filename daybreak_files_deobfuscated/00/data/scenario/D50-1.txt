@@ -1,0 +1,19 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm11.ogg
+bg data/talk/back04.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D50/
+character c11-2.bmp,0,1,550
+character c10-0.bmp,1,1,250
+
+front 0
+VOICE D50-010-11.wav
+…どうも最近の若い子には、恥じらいがなくていけません！
+front 1
+VOICE D50-011-10.wav
+character c10-3.bmp,1,0
+やはり、メイド教育を取り入れなくては、\n日本は駄目になってしまいますね…

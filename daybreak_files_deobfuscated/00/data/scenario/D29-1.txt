@@ -1,0 +1,34 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm11.ogg
+bg data/talk/back01.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D29/
+character c03-0.bmp,0,1,550
+character c04-1.bmp,1,1,250
+
+front 1
+VOICE D29-012-04.wav
+入江をなでなでにぱ～☆\n知恵をなでなでにぱ～☆\nダブル幸せなのです。
+front 0
+VOICE D29-014-03.wav
+character c03-1.bmp,0,0
+……しかし、さっきから私たちがオットセイを持っていると知っている人間が多いですわよね。
+front 1
+VOICE D29-015-04a.wav
+character c04-0.bmp,1,0
+……多分、誰かが言い触らしているに違いないのです。
+VOICE D29-015-04b.wav
+character c04-1.bmp,1,0
+…でも敵が増えれば、沙都子がやっつけるから、\nボクはいっぱいなでなでができて幸せなのですよ。\nにぱ～☆
+front 0
+VOICE D29-016-03.wav
+character c03-1.bmp,0,0
+…何となく、梨花本人が言い触らしてるんじゃないかと\n思いましてよ…
+front 1
+VOICE D29-017-04.wav
+character c04-0.bmp,1,0
+万策尽きた頃なのです。\n…そろそろ言い触らしている本人が、\n乗り込んで来そうな予感なのですよ…

@@ -1,0 +1,74 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm01.ogg
+bg data/talk/back04.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D17/
+character c01-0.bmp,0,1,300
+character c05-0.bmp,1,1,120
+character c08-0.bmp,2,1,500
+character c09-0.bmp,3,1,680
+
+front 3
+VOICE D17-001-09.wav
+大石さん、あの二人ではありませんか？
+front 2
+character c08-1.bmp,2,0
+VOICE D17-002-08.wav
+いたいた見つけた！\nあんたたち、今日はあちこちで暴れ回ってるようですねぇ！
+front 1
+character c05-3.bmp,1,0
+VOICE D17-003-05.wav
+それはひどい誤解です。何の証拠があって！
+front 3
+character c09-0.bmp,3,0
+VOICE D17-004-09.wav
+旅行撮影家の男性が、カメラを壊されたと訴えているぞ？！
+front 0
+character c01-0.bmp,0,0
+VOICE D17-005-01.wav
+あー、それは盗撮だったからです。
+front 1
+character c05-0.bmp,1,0
+VOICE D17-006-05.wav
+私たちのぱんつ、撮りまくりだったから制裁しました。
+front 3
+character c09-0.bmp,3,0
+VOICE D17-007-09.wav
+診療所の医師が、暴行を受けたとも言っている！
+front 0
+character c01-0.bmp,0,0
+VOICE D17-008-01.wav
+あー、それは痴漢だったからです。
+front 1
+character c05-0.bmp,1,0
+VOICE D17-009-05.wav
+私たちのからだ、触りまくりだったから制裁しました。
+front 3
+character c09-2.bmp,3,0
+VOICE D17-010-09.wav
+……大石さん、全部正当防衛っぽいですが？
+front 2
+character c08-2.bmp,2,0
+VOICE D17-011-08.wav
+…なっはっは。そういうわけには行きません。\n署で話を聞かせてもらいますよぅ？
+front 0
+character c01-3.bmp,0,0
+VOICE D17-012-01.wav
+まずいなぁ、警察のお世話になんかなったら、\n婆っちゃにお灸を据えられるよ…
+front 1
+character c05-3.bmp,1,0
+VOICE D17-013-05.wav
+私だってまずいです！\nお父さんに折檻されちゃうー！
+front 2
+character c08-1.bmp,2,0
+VOICE D17-014-08.wav
+さぁほら！署へ参りましょう～！！
+front 1
+character c01-4.bmp,0,0
+character c05-3.bmp,1,0
+VOICE D17-015-D.wav
+「「実力行使ぃいいいぃ！！！」」

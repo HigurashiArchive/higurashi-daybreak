@@ -1,0 +1,19 @@
+#立ち絵ディレクトリ設定
+characterdir data/talk/
+
+#背景BGM設定
+bgm bgm11.ogg
+bg data/talk/back03.bmp
+
+#音声ディレクトリ設定
+voicedir data/voice/scenario/D37/
+character c07-1.bmp,0,1,550
+character c06-3.bmp,1,1,250
+
+front 1
+VOICE D37-010-06.wav
+はっはっは！\nどうだい見たかい、これが大人の魅力だよ！\nなぁ、鷹野さん！
+front 0
+VOICE D37-011-07.wav
+character c07-2.bmp,0,0
+…とりあえずジロウさんも一発殴らせてもらっていいかしら…
